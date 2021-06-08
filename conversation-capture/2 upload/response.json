@@ -1,0 +1,20 @@
+{
+  "app": "com.womboai.wombo",
+  "code": 204,
+  "duration": "5314ms",
+  "headers": {
+    "x-amz-id-2": "6CTHIzEKbN6t74ODfpaajCmjD/SPXm/wLYlR4OBe2tiO10J30n9TD3DPxeEYDWMm4Bfpbf8Me0E\u003d",
+    "x-amz-request-id": "K36FEXA1P66VKD42",
+    "Date": "Mon, 31 May 2021 14:30:09 GMT",
+    "x-amz-expiration": "expiry-date\u003d\"Thu, 03 Jun 2021 00:00:00 GMT\", rule-id\u003d\"48hr-Privacy-Delete\"",
+    "ETag": "\"6284f9ed268a635b017e1d8115331909\"",
+    "Location": "https://wombo-user-content.s3.amazonaws.com/photos%2F3090018f-9aaf-4090-9f23-aff4970efe16.jpg",
+    "Server": "AmazonS3"
+  },
+  "message": "No Content",
+  "protocol": "HTTP/1.1",
+  "remoteIp": "52.217.68.220",
+  "remotePort": 443,
+  "sessionId": "bd9f7bb8-1255-4404-9bdc-69afe16e2b16",
+  "time": "2021-05-31 09:30:04"
+}

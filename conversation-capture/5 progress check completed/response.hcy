@@ -1,0 +1,7 @@
+h2 200
+date: Mon, 31 May 2021 14:30:18 GMT
+content-type: application/json
+content-length: 737
+server: uvicorn
+
+{"id":"3090018f-9aaf-4090-9f23-aff4970efe16","state":"completed","created_at":"2021-05-31T14:30:04.056804+00:00","updated_at":"2021-05-31T14:30:17.400671+00:00","photo_url":"https://wombo-user-content.s3.amazonaws.com/photos/3090018f-9aaf-4090-9f23-aff4970efe16.jpg?AWSAccessKeyId=AKIAWGXQXQ6WCOB7PP5J&Signature=6S2roykhh33QSaiIGvrrSICeyTs%3D&Expires=1622475018","video_url":"https://wombo-user-content.s3.amazonaws.com/mashups/3090018f-9aaf-4090-9f23-aff4970efe16.mp4?AWSAccessKeyId=AKIAWGXQXQ6WCOB7PP5J&Signature=iqwXix%2Bsig%2BRhowFADfYabqzM14%3D&Expires=1622475018","upload_photo":null,"s3_photo_key":"photos/3090018f-9aaf-4090-9f23-aff4970efe16.jpg","s3_video_key":"mashups/3090018f-9aaf-4090-9f23-aff4970efe16.mp4","premium":false}

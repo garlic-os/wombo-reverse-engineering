@@ -1,0 +1,19 @@
+{
+  "app": "com.womboai.wombo",
+  "duration": "5314ms",
+  "headers": {
+    "Content-Type": "multipart/form-data; boundary\u003d76418207-c8c8-4aab-83a3-9523c5aac6eb",
+    "Content-Length": "33028",
+    "Host": "wombo-user-content.s3.amazonaws.com",
+    "Connection": "Keep-Alive",
+    "Accept-Encoding": "gzip",
+    "User-Agent": "okhttp/3.14.9"
+  },
+  "method": "POST",
+  "protocol": "HTTP/1.1",
+  "remoteIp": "52.217.68.220",
+  "remotePort": 443,
+  "sessionId": "bd9f7bb8-1255-4404-9bdc-69afe16e2b16",
+  "time": "2021-05-31 09:30:04",
+  "url": "https://wombo-user-content.s3.amazonaws.com/"
+}

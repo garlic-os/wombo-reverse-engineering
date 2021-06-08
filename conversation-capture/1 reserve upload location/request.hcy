@@ -1,0 +1,7 @@
+POST /mobile-app/mashups/ h2
+Host: api.wombo.ai
+authorization: Basic d29tYm8tdGhhdC1zaGl6ejpHZXRUaGF0QnJlYWQkMSE=
+content-length: 0
+accept-encoding: gzip
+user-agent: okhttp/3.14.9
+

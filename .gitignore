@@ -1,3 +1,9 @@
+# IDE configuration files
+.vscode/
+
+# Video files generated from test.py
+tests/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]

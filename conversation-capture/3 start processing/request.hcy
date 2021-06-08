@@ -1,0 +1,9 @@
+PUT /mobile-app/mashups/3090018f-9aaf-4090-9f23-aff4970efe16 h2
+Host: api.wombo.ai
+authorization: Basic d29tYm8tdGhhdC1zaGl6ejpHZXRUaGF0QnJlYWQkMSE=
+content-type: application/json; charset=UTF-8
+content-length: 33
+accept-encoding: gzip
+user-agent: okhttp/3.14.9
+
+{"meme_id":"180","premium":false}

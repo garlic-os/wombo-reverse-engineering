@@ -1,0 +1,17 @@
+{
+  "app": "com.womboai.wombo",
+  "duration": "591ms",
+  "headers": {
+    "Host": "wombo-user-content.s3.amazonaws.com",
+    "Connection": "Keep-Alive",
+    "Accept-Encoding": "gzip",
+    "User-Agent": "okhttp/3.14.9"
+  },
+  "method": "GET",
+  "protocol": "HTTP/1.1",
+  "remoteIp": "52.217.168.81",
+  "remotePort": 443,
+  "sessionId": "456735fe-b1ca-40f0-b2c1-570100747f61",
+  "time": "2021-05-31 09:30:18",
+  "url": "https://wombo-user-content.s3.amazonaws.com/mashups/3090018f-9aaf-4090-9f23-aff4970efe16.mp4?AWSAccessKeyId\u003dAKIAWGXQXQ6WCOB7PP5J\u0026Signature\u003diqwXix%2Bsig%2BRhowFADfYabqzM14%3D\u0026Expires\u003d1622475018"
+}

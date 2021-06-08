@@ -1,0 +1,17 @@
+{
+  "app": "com.womboai.wombo",
+  "code": 200,
+  "duration": "124ms",
+  "headers": {
+    "date": "Mon, 31 May 2021 14:30:04 GMT",
+    "content-type": "application/json",
+    "content-length": "957",
+    "server": "uvicorn"
+  },
+  "message": null,
+  "protocol": "h2",
+  "remoteIp": "184.73.51.183",
+  "remotePort": 443,
+  "sessionId": "c29e110b-1206-4f9f-a227-39683caca10f",
+  "time": "2021-05-31 09:30:03"
+}

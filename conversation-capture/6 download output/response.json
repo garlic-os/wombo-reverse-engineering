@@ -1,0 +1,24 @@
+{
+  "app": "com.womboai.wombo",
+  "code": 200,
+  "duration": "591ms",
+  "headers": {
+    "x-amz-id-2": "2jfD4hYJjlLkPQIj4c1Ab5Pwlqp/bd8Hd3MM5+fBXDPqqk5i3v9GncIaWq0eKaqkT1X0x6wYVFM\u003d",
+    "x-amz-request-id": "2JGHG1074VKMDN0A",
+    "Date": "Mon, 31 May 2021 14:30:20 GMT",
+    "Last-Modified": "Mon, 31 May 2021 14:30:18 GMT",
+    "x-amz-expiration": "expiry-date\u003d\"Thu, 03 Jun 2021 00:00:00 GMT\", rule-id\u003d\"48hr-Privacy-Delete\"",
+    "ETag": "\"739efec673775a1749ab0929875bd37d\"",
+    "x-amz-version-id": "null",
+    "Accept-Ranges": "bytes",
+    "Content-Type": "binary/octet-stream",
+    "Content-Length": "967915",
+    "Server": "AmazonS3"
+  },
+  "message": "OK",
+  "protocol": "HTTP/1.1",
+  "remoteIp": "52.217.168.81",
+  "remotePort": 443,
+  "sessionId": "456735fe-b1ca-40f0-b2c1-570100747f61",
+  "time": "2021-05-31 09:30:18"
+}

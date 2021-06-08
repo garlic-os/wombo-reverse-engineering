@@ -1,0 +1,6 @@
+GET /mashups/3090018f-9aaf-4090-9f23-aff4970efe16.mp4?AWSAccessKeyId=AKIAWGXQXQ6WCOB7PP5J&Signature=iqwXix%2Bsig%2BRhowFADfYabqzM14%3D&Expires=1622475018 HTTP/1.1
+Host: wombo-user-content.s3.amazonaws.com
+Connection: Keep-Alive
+Accept-Encoding: gzip
+User-Agent: okhttp/3.14.9
+

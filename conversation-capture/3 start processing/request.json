@@ -1,0 +1,19 @@
+{
+  "app": "com.womboai.wombo",
+  "duration": "239ms",
+  "headers": {
+    "Host": "api.wombo.ai",
+    "authorization": "Basic d29tYm8tdGhhdC1zaGl6ejpHZXRUaGF0QnJlYWQkMSE\u003d",
+    "content-type": "application/json; charset\u003dUTF-8",
+    "content-length": "33",
+    "accept-encoding": "gzip",
+    "user-agent": "okhttp/3.14.9"
+  },
+  "method": "PUT",
+  "protocol": "h2",
+  "remoteIp": "184.73.51.183",
+  "remotePort": 443,
+  "sessionId": "04b99d0b-ba49-4515-a482-f67bedb006a0",
+  "time": "2021-05-31 09:30:09",
+  "url": "https://api.wombo.ai/mobile-app/mashups/3090018f-9aaf-4090-9f23-aff4970efe16"
+}
