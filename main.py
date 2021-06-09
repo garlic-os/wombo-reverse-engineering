@@ -190,7 +190,7 @@ MEMES = {
     "tusa": 245,
 }
 
-FIDDLER_DEBUG = True
+FIDDLER_DEBUG = False
 
 
 def main():
